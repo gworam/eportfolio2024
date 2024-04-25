@@ -464,7 +464,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 /*Dark Background Color*/
 .dark-bg {
-    background: #ABD3DB;
+    background: #F2D64B;
     /*color: #fff;*/
 }
 
@@ -477,7 +477,7 @@ figure.effect-bubba:hover p {
 }
 /*Light Background Color*/
 .light-bg {
-	background-color: ##E5F5DC;
+	background-color: #FFFFE1;
 }
 
 .overlay-dark:before, .overlay-light:before {
